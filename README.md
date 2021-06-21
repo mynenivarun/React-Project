@@ -4,9 +4,9 @@ This is `React-Spotify`, a React front end client that communicates with the Spo
 
 See it in action [here](https://github.com/varun-0007/React-Project).
 
-![alt text](https://github.com/varun-0007/React-Project/blob/main/songs.png "Songs")
+![alt text](https://github.com/varun-0007/React-Project/blob/main/songs.jpg "Songs")
 
-![alt text](https://github.com/varun-0007/React-Project/blob/main/browse.png "Browse")
+![alt text](https://github.com/varun-0007/React-Project/blob/main/browse.jpg "Browse")
 
 If you wish to run the code locally run the following commands.
 
